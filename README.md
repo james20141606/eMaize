@@ -4,5 +4,11 @@ Heterosis is the improved or increased function of any biological quality in a h
 ## Methods
 We have tried many machine learning models which have many problems. Then we use two new models Mixed-Ridge and Metric-Regressor to try to solve the problem. We also try some more to try to solve the problem. 
 
+![png](plots/22.png)
+
+![png](plots/20.png)
+
+![png](plots/metric)
+
 **To Understand the key problems and methods solving it, please read Applying Machine Learning To Maize Traits Prediction.pdf and eMaize_report_2**
 

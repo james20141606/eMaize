@@ -8,7 +8,7 @@ We have tried many machine learning models which have many problems. Then we use
 
 ![png](https://github.com/james20141606/eMaize/blob/master/plots/20.png)
 
-![png](https://github.com/james20141606/eMaize/blob/master/plots/metric)
+![png](https://github.com/james20141606/eMaize/blob/master/plots/metric.png)
 
 **To Understand the key problems and methods solving it, please read Applying Machine Learning To Maize Traits Prediction.pdf and eMaize_report_2**
 

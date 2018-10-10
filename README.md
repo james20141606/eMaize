@@ -1,3 +1,7 @@
+#eMaize: Machine Learning for Traits Prediction
+
+Also see my [website page](https://www.cmwonderland.com/blog/2018/10/10/96-emaize-project/)
+
 ## Introduction
 Heterosis is the improved or increased function of any biological quality in a hybrid oﬀspring. We have studied yet the largest maize SNP dataset for traits prediction. We develop linear and non-linear models which consider relationships between diﬀerent hybrids as well as other eﬀect. Specially designed model proved to be eﬃcient and robust in prediction maize’s traits.
 

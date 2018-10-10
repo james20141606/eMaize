@@ -1,4 +1,6 @@
-#eMaize: Machine Learning for Traits Prediction
+# eMaize: Machine Learning for Traits Prediction
+
+See https://arxiv.org/pdf/1808.06275.pdf
 
 Also see my [website page](https://www.cmwonderland.com/blog/2018/10/10/96-emaize-project/)
 
